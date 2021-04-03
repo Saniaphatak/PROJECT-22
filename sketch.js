@@ -74,7 +74,7 @@ function keyPressed(){
 	//star should fall down with down key
 	 if(keyCode==DOWN_ARROW){
 		 //playing sound
-		fairyVoice.play();
+		//fairyVoice.play();
 		star.velocityY = 3;
 	}
 
